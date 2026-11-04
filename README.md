@@ -4,7 +4,7 @@ Economics & Computer Science at Boston University, now an MS in Business Analyti
 I build things where the data has to turn into a decision — pricing, forecasting, retrieval,
 reinforcement learning — and I'm looking for **software, data and AI roles starting 2027**.
 
-🌐 [otawfik.com](https://otawfik.com) · 💼 [LinkedIn](https://linkedin.com/in/omar-tawfik11) · ✉️ mariofarouk1@gmail.com
+🌐 [otawfik.com](https://otawfik.com) · 💼 [LinkedIn](https://linkedin.com/in/omar-tawfik11) · ✉️ otawfik@bu.edu
 
 #### Selected work
 
